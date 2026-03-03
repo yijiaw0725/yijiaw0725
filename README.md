@@ -30,10 +30,10 @@ I hold an M.S. in Applied Statistics from the University of Michigan, with a foc
 
 ## Education
 
-| Degree | School | GPA |
-|--------|--------|-----|
-| M.S. Applied Statistics | University of Michigan | 3.65 / 4.0 |
-| B.S. Statistics, Minor in Mathematics | Virginia Tech | 3.96 / 4.0 |
+| Degree | School |
+|--------|--------|
+| M.S. Applied Statistics | University of Michigan |
+| B.S. Statistics, Minor in Mathematics | Virginia Tech |
 
 ---
 

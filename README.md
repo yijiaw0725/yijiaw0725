@@ -8,7 +8,9 @@ I hold an M.S. in Applied Statistics from the University of Michigan, with a foc
 
 ## Currently
 
-- 📂 Working on independent data projects across topics I find interesting — starting with **[Seattle Housing Analytics](https://github.com/yijiaw0725/seattlle-housing-analytics)**, exploring King County public assessor data (2.4M+ sales records)
+- 📂 Working on **[Seattle Housing Analytics](https://github.com/yijiaw0725/seattlle-housing-analytics)** — independent data projects exploring King County real estate across multiple dimensions:
+  - Housing price trends and structural feature analysis (2.4M+ assessor records)
+  - School quality premium: GIS spatial join + OSPI assessment data → **+99% price premium** in top school districts
 - 🔍 Open to **Data Scientist / Data Analyst** roles in Seattle
 
 ---
@@ -24,7 +26,7 @@ I hold an M.S. in Applied Statistics from the University of Michigan, with a foc
 
 ## Skills
 
-`Python` `SQL` `R` `A/B Testing` `Causal Inference` `Machine Learning` `BigQuery` `Looker Studio` `Bayesian Statistics` `Experimental Design`
+`Python` `SQL` `R` `A/B Testing` `Causal Inference` `Machine Learning` `BigQuery` `Looker Studio` `Bayesian Statistics` `Experimental Design` `GeoPandas` `GIS`
 
 ---
 
